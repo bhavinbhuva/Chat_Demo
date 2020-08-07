@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chat_demo</string>
+    <string name="FCM_Pref">com.example.chat_demo.FCM_PREF</string>
+    <string name="FCM_TOKEN">com.example.chat_demo.FCM_TOKEN</string>
+</resources>
